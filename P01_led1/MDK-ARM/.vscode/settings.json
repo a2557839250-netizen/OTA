@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "int_can.h": "c",
+        "algorithm": "c",
+        "can.h": "c",
+        "usart.h": "c",
+        "app_update.h": "c",
+        "string.h": "c",
+        "driver_llcc68_interface.h": "c",
+        "int_llcc68.h": "c",
+        "system_error": "c",
+        "int_w24c02.h": "c"
+    }
+}

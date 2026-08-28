@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "int_bootloader.h": "c",
+        "usart.h": "c",
+        "algorithm": "c",
+        "app_bootloader.h": "c",
+        "int_w24c02.h": "c",
+        "int_w25q32.h": "c",
+        "spi.h": "c"
+    }
+}

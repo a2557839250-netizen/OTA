@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "int_can.h": "c",
+        "algorithm": "c",
+        "can.h": "c",
+        "usart.h": "c",
+        "app_update.h": "c",
+        "string.h": "c"
+    }
+}

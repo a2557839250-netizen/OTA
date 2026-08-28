@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "stdio.h": "c",
+        "app_update.h": "c",
+        "int_can.h": "c",
+        "int_bootloader.h": "c",
+        "stdlib.h": "c",
+        "app_bootloader.h": "c",
+        "can.h": "c",
+        "crc.h": "c"
+    }
+}

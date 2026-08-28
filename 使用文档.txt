@@ -1,0 +1,8 @@
+P02_bootloader_hal 0x0800 0000-0x0800 4000（b区）
+
+P03_bootloader_reset_hal  烧到0x0800 4000-0x0800 8000（备份区）
+
+P01_led1（生成旧bin文件  灯亮）    由bootloader烧到a区（0x0800 8000）并且跳转到a区
+P01_led2（生成新bin文件  灯闪烁）
+
+P00_getway_led1_hal （上位机）
